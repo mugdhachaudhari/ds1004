@@ -19,3 +19,24 @@
 * | db85933 Commit on branch00
 |/  
 * 707d250 Commit on Master
+
+su472
+*   6cb135f 9th commit (merge conflict resolver between branch2 and master).
+|\
+| *   6fdbfa2 7th commit(Merge branch2 and master)
+| |\
+| * | 39891c8 4th commit (1st on branch2).
+* | |   7984b8f 8th commit (merge conflict resolver between branch3 and master).
+|\ \ \
+| |_|/
+|/| |
+| * | 2018107 5th commit (1st on branch3).
+* | |   377c00c 6th commit (merge conflict resolver between branch1 and master).
+|\ \ \
+| |/ /
+|/| /
+| |/
+| * 89f9cae 2nd commit (1st on branch1).
+* | 9c79e3d 3rd commit (2nd on master).
+|/
+* b01cb23 1st commit (1st on master).
