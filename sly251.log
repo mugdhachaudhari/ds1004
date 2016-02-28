@@ -1,21 +1,44 @@
-"sly251" 
+mnc309
+*   cdc68c8 9th commit
+|\
+| *   41c88de 7th commit
+| |\
+| * | d8520ba 6th commit - first on third
+* | |   49496b0 8th commit
+|\ \ \
+| |_|/
+|/| |
+| * | 5902655 5th commit -- first on second
+* | |   ffebfa7 4th commit -- second on first -- merge
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
+| * b94366b 2nd commit 2nd on master
+* | ad74e6b 3rd commit -- first on first
+|/
+* d8a26ba 1st commit - 1st on master
+
+"sly251"
 *   58f237c Merge branch 'test3' into test1
-|\  
+|\
 | *   9b4361b Merge branch 'test2' into test3
-| |\  
+| |\
 | * | bb002a2 3rd commit test3
 * | |   509846e Merge branch 'test2' into test1
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   8bb39d8 Merge branch 'test1' into test2
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 69ec0bf 2nd commit test2
 * | | a968a9f 2nd commit test1
-| |/  
-|/|   
+| |/
+|/|
 * | 502571f 1st commit test1
-|/  
+|/
 * 26ae35a initial commit
+
