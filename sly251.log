@@ -1,0 +1,21 @@
+"sly251" 
+*   58f237c Merge branch 'test3' into test1
+|\  
+| *   9b4361b Merge branch 'test2' into test3
+| |\  
+| * | bb002a2 3rd commit test3
+* | |   509846e Merge branch 'test2' into test1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   8bb39d8 Merge branch 'test1' into test2
+| |\ \  
+| | |/  
+| |/|   
+| * | 69ec0bf 2nd commit test2
+* | | a968a9f 2nd commit test1
+| |/  
+|/|   
+* | 502571f 1st commit test1
+|/  
+* 26ae35a initial commit
