@@ -1,23 +1,23 @@
-"ass546" 
+"ass546"
 *   cc9f310 Merge commit '8edb143' into branch00
-|\  
+|\
 | *   8edb143 Merge commit 'ed57ec9' into branch11
-| |\  
+| |\
 | * | 561b899 Commit on branch11
 * | |   88b71b8 Merge commit 'ed57ec9' into branch00
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   ed57ec9 Merge branch 'branch00' into branch01
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 77c7e54 Commit on Branch01
 * | | 3174076 Commit on branch00
-| |/  
-|/|   
+| |/
+|/|
 * | db85933 Commit on branch00
-|/  
+|/
 * 707d250 Commit on Master
 
 mnc309
@@ -62,28 +62,28 @@ mnc309
 |/|   
 * | 0d3a21a 1st commit
 |/  
-* 3746184 initial commit
+* 707d250 Commit on Master
 
 "sly251" 
 *   58f237c Merge branch 'test3' into test1
-|\
+|\  
 | *   9b4361b Merge branch 'test2' into test3
-| |\
+| |\  
 | * | bb002a2 3rd commit test3
 * | |   509846e Merge branch 'test2' into test1
-|\ \ \
-| | |/
-| |/|
+|\ \ \  
+| | |/  
+| |/|   
 | * |   8bb39d8 Merge branch 'test1' into test2
-| |\ \
-| | |/
-| |/|
+| |\ \  
+| | |/  
+| |/|   
 | * | 69ec0bf 2nd commit test2
 * | | a968a9f 2nd commit test1
-| |/
-|/|
+| |/  
+|/|   
 * | 502571f 1st commit test1
-|/
+|/  
 * 26ae35a initial commit
 
 su472
